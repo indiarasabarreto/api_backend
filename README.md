@@ -4,9 +4,7 @@
 Uma API de tarefas (to-do list)
 
 🛠️ Tecnologias:
-    - FastAPI (recomendado)
-ou
-    - Flask
+    - FastAPI
 
 🧩 Funcionalidades:
     - Criar tarefa
